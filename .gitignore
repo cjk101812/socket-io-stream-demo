@@ -1,2 +1,5 @@
 socket-server/node_modules
-socket-app/node_modules
+socket-ui/node_modules
+
+socket-server/package-lock.json
+socket-ui/package-lock.json
